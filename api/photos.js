@@ -12,7 +12,7 @@ const PHOTOS = [
 {
     id: 1,
     file: "photo1.jpg",
-    caption: "أجمل حاجة في يومي إنك فيه ❤️",
+    caption: "test",
   },
   {
     id: 2,
@@ -51,7 +51,7 @@ const PHOTOS = [
   },
    {
     id: 9,
-    file: "photo9.jpg",
+    file: "photo9.JPG",
     caption: "سنتين وعدّوا كأنهم لحظة… والباقي أحلى إن شاء الله 🤍",
 
   // ── ADD MORE PHOTOS HERE ──────────────────────────────────

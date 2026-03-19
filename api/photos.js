@@ -1,5 +1,5 @@
 const PHOTOS = [
-  { id: 1, file: "photo1.jpg", caption: "test" },
+  { id: 1, file: "photo1.jpg", caption: "أجمل حاجة في يومي إنك فيه ❤️" },
   { id: 2, file: "photo2.jpg", caption: "مش محتاجين مكان حلو… إحنا اللي بنخلي المكان حلو سوا ✨" },
   { id: 3, file: "photo3.jpg", caption: "بنبقى أبسط نسخة من نفسنا لما بنكون سوا 🤍" },
   { id: 4, file: "photo4.jpg", caption: "اتنين ضد الدنيا… بس بهزار وضحك 😄✌️" },
